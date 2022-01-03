@@ -12,4 +12,4 @@ Inspirado en https://github.com/JohnEmerson1406/linktree
 - JS
     
 ## Producto
-https://notjessg.github.io/TREE
+https://notjessg.github.io/tree/
