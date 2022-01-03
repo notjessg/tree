@@ -4,7 +4,7 @@ holi
 ## Sample
 null
 
-Inspirado en https://github.com/JohnEmerson1406/linktree 
+Inspiración https://github.com/JohnEmerson1406/linktree 
 
 ## Hecho en
 - HTML
