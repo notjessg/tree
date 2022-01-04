@@ -2,8 +2,6 @@
 holi
 
 ## Sample
-null
-
 Inspiración https://github.com/JohnEmerson1406/linktree 
 
 ## Hecho en
