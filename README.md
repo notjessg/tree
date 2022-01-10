@@ -1,8 +1,8 @@
 ## Tree
-holi
+holi, k tal? esto es un "arbol" de links.
 
-## Sample
-Inspiración https://github.com/JohnEmerson1406/linktree 
+## Inspirado en
+https://github.com/JohnEmerson1406/linktree 
 
 ## Hecho en
 - HTML
